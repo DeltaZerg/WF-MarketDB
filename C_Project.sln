@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Project", "C_Project\C_Project.csproj", "{EBCD5B4C-55E4-48AB-8CDE-47EB270C5FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addon", "Addon\Addon.csproj", "{E8E8C675-9E0A-44A9-ABCC-3177D4A3781D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCD5B4C-55E4-48AB-8CDE-47EB270C5FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCD5B4C-55E4-48AB-8CDE-47EB270C5FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCD5B4C-55E4-48AB-8CDE-47EB270C5FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCD5B4C-55E4-48AB-8CDE-47EB270C5FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E8C675-9E0A-44A9-ABCC-3177D4A3781D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E8C675-9E0A-44A9-ABCC-3177D4A3781D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E8C675-9E0A-44A9-ABCC-3177D4A3781D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E8C675-9E0A-44A9-ABCC-3177D4A3781D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FAC021-294C-4DE9-875B-E137F3D7AEE4}
+	EndGlobalSection
+EndGlobal
